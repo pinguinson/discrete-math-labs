@@ -14,3 +14,10 @@ Lab 2: priority queue & DSU
 Lab 3: binary search trees  
 Lab 4: hash tables  
 Lab 5: segment trees  
+
+3rd term (all code in Java):
+---------
+Lab 1: directed DFS  
+Lab 2: undirected DFS  
+Lab 3: shortest path  
+Lab 4: spanning trees, MST  
