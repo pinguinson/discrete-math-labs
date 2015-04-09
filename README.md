@@ -21,10 +21,10 @@ Lab 1: directed DFS
 Lab 2: undirected DFS  
 Lab 3: shortest path  
 Lab 4: spanning trees, MST  
-Lab 5: smth1 
+Lab 5: smth1  
 Lab 6: smth2  
 
 4th term (all code in Java):
 ---------
-Lab 1: substrings
-Lab 2: suffix structures (contains terrible copy-pasted code)
+Lab 1: substrings  
+Lab 2: suffix structures (contains terrible copy-pasted code)  
